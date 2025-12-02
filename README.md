@@ -1,8 +1,4 @@
-# 👋 
-
-I’m a technical support & QA specialist who fell in love with engineering and never quite recovered.
-
-For the last few years I’ve been deep in the crypto world (Bybit, OKX), handling L2/L3 trading & blockchain issues, auditing complex tickets, and building training so other people don’t have to suffer through the same bugs twice. Somewhere along the way I realised my favourite tickets were the ones that needed DevTools, logs, and a bit of code.
+# 👋 Hey there!
 
 ---
 
@@ -13,7 +9,7 @@ For the last few years I’ve been deep in the crypto world (Bybit, OKX), handli
 - Automate boring manual work with **Python scripts** and small tools
 - Build and instrument web apps with **TypeScript / JavaScript**
 
-I’m currently studying **Systems Analysis & Development** and working in **LD/QA** as an SME, but I’m happiest when I’m close to the code and the problem.
+I’m currently studying **Systems Analysis & Development**  
 
 ---
 
@@ -22,23 +18,33 @@ I’m currently studying **Systems Analysis & Development** and working in **LD/
 - **Languages:** Python, TypeScript, JavaScript  
 - **Web:** React/Next-ish frontends, HTML/CSS, browser DevTools  
 - **Data & debugging:** HTTP/REST, JSON, logs, SQL basics  
-- **Analytics & product:** Playing a lot with **PostHog** – events, feature flags, session replay
+- **Analytics & product:** Playing with **PostHog** lately – events, session replay...
 
 ---
 
 ## 🧪 Things I’ve built (or broken on purpose)
 
-- A small **flight-search scanner** to hunt down cheap tickets  
-- Internal tooling to **automate crypto deposit QA checks**  
-- Tiny apps & websites to learn stacks by doing, not just reading  
+- **Macedonian Vibe News**  
+  The first Macedonian AI-curated news aggregator, built with modern web tooling and deployed on Vercel.  
+  Repo: [macedonian-vibe-news](https://github.com/abalinda/macedonian-vibe-news) • Live: [macedonian-vibe-news.vercel.app](https://macedonian-vibe-news.vercel.app/)
+
+- **Thaina Mansur – Psychologist website**  
+  Personal site for a Brazilian psychologist – designed, built and deployed by me.  
+  Repo: [thainamansurpsi](https://github.com/abalinda/thainamansurpsi) • Live: [thainamansurpsi.com](https://thainamansurpsi.com)
+
+- **JobOps – GenAI Job Assistant**  
+  An automatic job search & application helper that parses job ads, structures them and helps tailor applications.  
+  Repo: [JobOps-GenAI-](https://github.com/abalinda/JobOps-GenAI-) • Helped me land multiple job offers.
+
+- **Car Import Tax Calculator (Macedonia)**  
+  A web app that calculates car import taxes for Macedonia, turning a painful manual process into a few clicks.  
+  Repo: [danok_koli](https://github.com/abalinda/danok_koli) • Live: [abalinda.github.io/danok_koli](https://abalinda.github.io/danok_koli/)- Tiny apps & websites to learn stacks by doing, not just reading  
 
 ---
 
 ## 🌍 A bit more human
 
 I’ve lived in a few countries (including 7 years in Brazil), finished a demanding **Psychology** degree, and still chose to spend my free time building tools and learning to code.
-
-If you’re into debugging weird behaviour, analytics, or “support as engineering”, we’ll probably get along. 🙂
 
 <!--
 **abalinda/abalinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
