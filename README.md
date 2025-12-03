@@ -26,7 +26,7 @@ I’m currently studying **Systems Analysis & Development**
 
 - **Macedonian Vibe News**  
   The first Macedonian AI-curated news aggregator, built with modern web tooling and deployed on Vercel.  
-  Repo: [macedonian-vibe-news](https://github.com/abalinda/macedonian-vibe-news) • Live: [macedonian-vibe-news.vercel.app](https://macedonian-vibe-news.vercel.app/)
+  Repo: [macedonian-vibe-news](https://github.com/abalinda/macedonian-vibe-news) • Live: [vibes.mk](https://vibes.mk)
 
 - **Thaina Mansur – Psychologist website**  
   Personal site for a Brazilian psychologist – designed, built and deployed by me.  
